@@ -5,3 +5,5 @@ dist/
 tf_trt_models.egg-info/
 data/
 logs/
+third_party/models/
+third_party/models
